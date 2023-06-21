@@ -26,7 +26,7 @@ using Microsoft SQL server Management Studio (SSMS).
 *	Break down all olympic games where India won medal for Hockey and how many medals in each olympic games.
 
 
-The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an
+The file olympics_history.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an
 individual Olympic event (olympics_history). The columns are:
 
 1.	ID - Unique number for each athlete
